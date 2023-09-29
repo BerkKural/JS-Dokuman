@@ -468,7 +468,8 @@ const promTutorials = () => {
 }
 promTutorials()
 
-//! asyn/await
+//* FIFO (First-In-First-Out), verilere ilk eklenen verilerin ilk çıkarıldığı bir kuyruk (queue) yapısıdır. 
+//* LIFO (Last-In-First-Out) ise en son eklenen verilerin ilk çıkarıldığı bir yığın (stack) yapısıdır.
 
 ///////////////////////////////
 
@@ -570,11 +571,3 @@ console.log(data)
 //! toString (string (metinsel) ifadeye çevirme)
 console.log(data.toString())
 
-//! splice, slice
-
-//* FIFO (First-In-First-Out), verilere ilk eklenen verilerin ilk çıkarıldığı bir kuyruk (queue) yapısıdır. 
-//* LIFO (Last-In-First-Out) ise en son eklenen verilerin ilk çıkarıldığı bir yığın (stack) yapısıdır.
-
-//! obje
-//! dom
-//! jquery ajax GET/POST
